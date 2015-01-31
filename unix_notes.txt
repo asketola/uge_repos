@@ -1,0 +1,161 @@
+history | less
+history
+cd App*
+cd A
+ls
+cd ../
+cd  Des*
+pwd
+cd
+man ls
+ls -d
+la
+ls -al
+ls -o
+ls -a
+ls -x
+man
+help
+ls -trl
+ll
+ls ll
+ls -lt
+ls -l
+ls -tr
+ls -t
+cd /
+home
+git --version
+git --
+brew doctor
+ls ~/.profile/
+ls .profile
+ls -h
+ls -n
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'star7anne@yahoo.com'
+git config --global user.name 'Anne'
+brew install git
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+h
+brew info fish
+brew in
+brew in 
+fish_update_completions
+curl -fsSL http://git.io/FzAR | ruby
+exit
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ls -G
+ls 
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+l
+git pull origin master
+cd 23AndMeClient
+cd 23AndMe
+cd GitHub
+cd~/GitHub
+cd ~GitHub
+got add -A
+git add -a
+git commit 
+git commit
+git status
+git commit -m
+git add -A
+git push
+git commit -m "small layout update"
+git push origin master
+git commit -m "Annemarie's changes"
+get commit -m
+git commit -a
+cd Git*
+cd iOS*
+cd Desk*
+cd iOS
+sudo rm -rf ~/Library/Caches/*
+cd ~/Library/Caches
+rm -rf ~/Library/Safari/Downloads.plist
+sudo rm -rf ~/Library/Logs/*
+cd ~/Library/Logs
+sudo vi /etc/hosts
+git config --list
+git push -u origin master
+git remote add origin https://github.com/asketola/Week3.git
+git remote -v
+git commit -m "Week3 initial commit"
+cd /Users/annemarieketola/Desktop/iOScoding/GitHubClient 
+/Users/annemarieketola/Desktop/iOScoding/GitHubClient 
+cd Cac*
+cd../
+cd Laun*
+cd Int*
+cd Facebook
+cd ~/Library/Application Support/
+cd ~/Library/Internet Plug-Ins/
+cd Internet Plug-Ins
+cd ~/Library
+cd Library
+ls /Library/Frameworks/GenieoExtra.framework
+ls /private/etc/launchd.conf
+/private/etc/launchd.conf
+ls ~/Trovi/
+ls ~/Conduit/
+ls /Library/Application Support/Conduit/
+cd ls /Library/InputManagers/CTLoader/
+cd /Library/InputManagers/CTLoader/
+ls ~/Library/Internet Plug-Ins/TroviNPAPIPlugin.plugin
+ls ~/Library/Internet Plug-Ins/ConduitNPAPIPlugin.plugin
+ls /Library/Application Support/SIMBL/Plugins/CT2285220.bundle
+ls /Library/LaunchDaemons/com.perion.searchprotectd.plist
+ls /Library/LaunchAgents/com.conduit.loader.agent.plist
+ls /Applications/SearchProtect.app
+cd /Library/Application Support/VSearch
+cd com.barebones.authd.plist
+cd /Library/LaunchDaemons
+rmcd /Library/LaunchDaemons
+cd ~/Library/LaunchAgents
+~/Library/LaunchAgents
+ls -trk
+genstrings *swift
+rm -rf Localizable.strings
+genstring *swift
+cd Phot*1
+cd Photo*4
+cd iOSc*
+cd Desktop
+cd /Users/annemarieketola/Library/Developer/CoreSimulator/Devices/2799AAE6-97E2-4DA4-B082-C256444D9E09/data/Containers/Bundle/Application/FAC963B8-F29C-4F5B-9060-45D3E2A164DD/TwitterClone2.app
+git clone https://github.com/codefellows/sea-b29-iOS.git
+cd desktop
+cd Un*
+rm -rf Unix
+rm -rf Uinx
+rm -rf Support
+cd Unix Support
+mkdir Unix Support
+mkdir Unix Filters
+cd Unix*
+cd Tex*
+cd /Users/annemarieketola/Library/Application*
+cd /Users/annemarieketola/Library/Application
+cd Lib
+cd ~/Library/Application Support/TextWrangler/Unix Support/Unix Filters/
+cd BB*
+cd to extend BBEdit
+cd Application Support
+cd library
+cd ~/Library/Application Support/BBEdit/ to extend BBEdit
+cd BBEdit Support/Unix Support/Unix Filters/
+BBEdit Support/Unix Support/Unix Filters/
+perl -v
+rails server
+vi .bash_profile
+cat
+vi bash_profile
+ruby -v
