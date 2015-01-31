@@ -4,7 +4,6 @@ cd App*
 cd A
 ls
 cd ../
-cd  Des*
 pwd
 cd
 man ls
@@ -15,13 +14,13 @@ ls -o
 ls -a
 ls -x
 man
+I am insierting crazy things
 help
-ls -trl
-ll
 ls ll
 ls -lt
 ls -l
-ls -tr
+la la la
+jls -tr
 ls -t
 cd /
 home
@@ -42,16 +41,6 @@ echo $EDITOR
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 h
-brew info fish
-brew in
-brew in 
-fish_update_completions
-curl -fsSL http://git.io/FzAR | ruby
-exit
-chsh -s /usr/local/bin/fish
-echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
-brew install fish
-ls -G
 ls 
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 uname
